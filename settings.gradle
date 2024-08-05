@@ -1,0 +1,6 @@
+rootProject.name = 'javascore'
+include(
+    'pyth',
+    'score-lib',
+    'test-lib'
+)
