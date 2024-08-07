@@ -8,12 +8,8 @@ public class Errors {
     public static final String WrongGuardianIndexOrder = "WrongGuardianIndexOrder";
     public static final String GuardianSignatureError = "GuardianSignatureError";
     public static final String InvalidUpdateData = "InvalidUpdateData";
+    public static final String InvalidEmitter = "InvlaidEmitter";
 
-    public static final String Accumulator_InsufficientLength = "Insufficient data length";
-    // public static final String InvalidVersion = "";
-    // public static final String InvalidVersion = "";
-    // public static final String InvalidVersion = "";
-    // public static final String InvalidVersion = "";
-    // public static final String InvalidVersion = "";
-    // public static final String InvalidVersion = "";
+    public static final String InsufficientLength = "Insufficient data length";
+
 }
