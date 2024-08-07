@@ -1,0 +1,24 @@
+{
+  "name": "price-service",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start-stream": "ts-node src/serviceStream.ts",
+    "start-poll": "ts-node src/servicePoll.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^22.1.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.4"
+  },
+  "dependencies": {
+    "@pythnetwork/hermes-client": "^1.0.4",
+    "@pythnetwork/price-service-client": "^1.9.0",
+    "icon-sdk-js": "^1.5.2"
+  }
+}
