@@ -33,13 +33,7 @@ subprojects {
         }
     }
 
-    configurations {
-        intTestImplementation.extendsFrom testImplementation
-        intTestAnnotationProcessor.extendsFrom testAnnotationProcessor
-        intTestRuntimeOnly.extendsFrom testRuntimeOnly
-    }
 
-    scoreIntegrationTest.put('env.props', new File(project(':test-lib').projectDir, 'conf/env.props'))
 
     afterEvaluate { project ->
         scoreIntegrationTest.put(project.name, project.getTasks().getByName("optimizedJar").outputJarName)
@@ -49,13 +43,6 @@ subprojects {
     // need to add this option to retrieve formal parameter names
     compileJava {
         options.compilerArgs += ['-parameters']
-    }
-}
-gradle.taskGraph.whenReady { taskGraph ->
-    taskGraph.getAllTasks().eachWithIndex { task, n ->
-        if (task.name == 'integrationTest') {
-            scoreIntegrationTest.each { key, val -> task.systemProperty key, val }
-        }
     }
 }
 

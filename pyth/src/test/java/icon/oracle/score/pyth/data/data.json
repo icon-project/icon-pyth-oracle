@@ -1,0 +1,512 @@
+[
+    {
+        "binary": {
+            "data": [
+                "504e41550100000003b801000000040d000af1e490989e2dda9cd38d6480c1528cefaec2d3f6aa6245f482f7a7a32f571332a454272dfce110c027893633a63df9bf6086a0b4c4769a95d696111cb9202b01022993427d7591a9868a5ef35022d823a1b2a2b960475f8e8c358ae29b9d25565d1931d690baa2167fdc5e8de2b724cfb651d554bab244583aabd87e4208ec26dd0103de3a12b2294aad7a96f2cfbd37feb1e95ae43ecb507cdada60037a5b2517d9046fa5245c3040de6f80f203857d666168eceab2aca69b7961d4a4849a5b23839f01049e7c6bb8fe8eb940bfcdde94fa7d69925b58bca90a85e73e9376df2bae02cbf81faa1962f8d9ad1e140035543fa759f9e2bbd2122374637a8a4b5e73116719f900065ca3c162ec76717f64c7cd17551b6d826f257a23ca20d9525499243b1ca54e6617d96732158f67285b311a07057f134b1612a7023df00f7e454a9088fa27e0ff000819d4a212aa510c2122512176c1ff0ae613e3d21da887d31f37b35175d18ee9d527d21006389189de035e860b0f5b0f86a348e29b1b6c4c00a93aa8f1608b0555000a283a209f099754d05a3adbcd36f64fae3392a3e84d363835e6a8e9ce08f2d45265e0928063a7e42050a2da74985a330fba888a39cc4a1bfbd7a1e28ec3b6a609010b2d996658eb24aafb86b57463c26c243c8fe8689fd9d8e976f8047703eab660213032e4f528b56597943010f8523dba8ed101a4fef5ca9dfc037241631cc3a93b010dcf1253c1d548d7dfedeaced1b48591e60d3459bbee0db162f5f769faa5b430503727c306c9644538a91b38485bc0d884736987dfa3db68a04941507ada910651000ed3dc995cb005668d13187e0510ab4557783d8d46ba38b9b12dc31564441bac3a526dc1b9fbb7f94171388b7d9d5548c9ee5db344a219b5a31db9686c65636f49000f4443bd9646b9c6d048342d3253492e677fdcece084ef12cceb0605dc9b093f8f51cc64ea33f4c3f70f3c0a3f06642ae6840a15d7ffa38582cf3818c567e27e6c0110d8fad8162cc69769a08e2c1732891d6deb22e69006dce505b9eef0fa0a23ba1539b7561c40df96cdb5dbef2752ce0b5d2dd967b90d7c1ba492b5628fac98f810011236a08797a18a160ed7d2df60be52f98d16de82eedf08a686be679490f5615d0c29ebf7b3944dc6509d2d6d18db78c21a98148262a9a9873abd9246621175c5fc0066b3219d00000000001ae101faedac5851e32b9b23b5f9411a8c2bac4aae3ed4dd7b811dd1a72ea4aa71000000000450232b01415557560000000000095acf8800002710114c5ed7a52753fae0009513a7013b150476e81308005500e62df6c8b4a85fe1a67db44dc12de5db330f7ac66b72dc658afedf0f4a415b430000052945b0c64400000000bf458c52fffffff80000000066b3219d0000000066b3219c0000052bf534a28000000000d2cd3d900bfc13ea07f4690abc1d9cb6e8e4839bdde168c2373b1d08ff7e970b7893ffc0b33f90294279480fc853fe974f1dca81317e4a209dd974004ddd0dbb39320d31d619bb0503961666cc5ead7c70e0faf4acc42797a8d6a2c6ba199536f652c57c876d40f14b0511ccd2d3fd9d81d4e3499c22961a8c86e85a12efe492732fb5ab73d9aa9b638fcadffba84173b647d3bab4e4d38a3c0e137bee5e06a8416aa1c953e6db3a85f7a057074bc75bed057a7fffc009d082c2f94fe45d0bf6df0f9229aec947f99e27fae06a4438fd509373d484da8f373f5670222f104a1bdb005500ff61491a931112ddf1bd8147cd1b641375f79f5825126d665480874634fd0ace0000003a2cd76f9500000000086acf68fffffff80000000066b3219d0000000066b3219c0000003a4fef29a800000000091351350b284f37919d959d8a3ecab0002b3ea1531a576dfe9d21970df4c969302b3e217c50cc5a6e2060c7e988b174e1993587271ec2ce0bea85cc67a0dceefbb36599e66f147e6199e57a0c7805acd3dde8e1c38b4e9098cca06cfb9a28bb992cd5bddd7c43b4de916627fd6a1c30f18dc02bf602c5ec760387651bcdf38c0032d8320e75d93e2f131cb67540aef0a9c9eea53f06f1bf4533b048e89a7f4d953a2cdcae48e408d158058df4a7e099a3917dd4cb985be1075c2565e4d00ecccede643b79dcb54c1a34ad3e634438fd509373d484da8f373f5670222f104a1bdb0055003fa4252848f9f0a1480be62745a4629d9eb1322aebab8a791e344b3b9c1adcf500000000030f3c9e000000000000cd45fffffff80000000066b3219d0000000066b3219c000000000310e9d1000000000000d6d50beca0d9b83c9f0d801451bc91fbbe88aab9e70fc6d8e4be51c1239b9953252ad5f8c6c7e12556f57a05c824b2cfb7457d87bd005b13b114e4e8edd229bebd7ccab9f14901345bfc2ab3c7d772d886ff5d6c876bb7e259b497bf4d920c3913a955226a722c4c1c9a275dd2a899895df1a4659ac293076b37889e54b9b8842ce1889abef28a9757202cfbc6146907986d8a861dc77756e80554f4cc9ee413c4479a03a2d095eb76f026ca30f4f4c50a2e7e8cf2c73bc2f94fe45d0bf6df0f9229aec947f99e27fae06a4438fd509373d484da8f373f5670222f104a1bdb00550093da3352f9f1d105fdfe4971cfa80e9dd777bfc5d0f683ebb6e1294b92137bb7000000007e36ab6600000000001d6759fffffff80000000066b3219d0000000066b3219c000000007f12ec9a00000000001d7a6e0b63c73df8ac89ea759c0864e02bf0b9ce86192aff2de2a6dadadba45452b28f1e5bf8273f423d2b7ca65fe2b9a57e61745e75bf6ecbde279e003699ed012d28ac83c92b4c88fc1e1ce7aa03a316d17a689f9363807ec0ed3f449a9e50ed686bbaae5cacd3049c507f491b80517fcacc54c1fa954813143e8c901fcd95c2877a68e3344818d4d1682c9f2d93af27e93498faf5be0e9c73bce7b8c2f92446c74361e6db3a85f7a057074bc75bed057a7fffc009d082c2f94fe45d0bf6df0f9229aec947f99e27fae06a4438fd509373d484da8f373f5670222f104a1bdb0055007a5bc1d2b56ad029048cd63964b3ad2776eadf812edc1a43a31406cb54bff59200000000608577190000000000207f64fffffff80000000066b3219d0000000066b3219c000000006156c51e0000000000201c0c0b7d4d0b97caedc3f3fe926b1ef7f11162967a54e669b19f4e7279422cc42b93710656108f332431e150003a2a366dfbf151cbf9fefb61134e4b0800054eb5b58dd8f020a829ea2497dc22bc2a43c7c448fde7fbf425c31eca0487586e6322746b4dcd280ab9f5b5757cc313b0aa9f0fec7be4c97fd51a6084cbae59f20c2200d6c7886c57de139aa817efa1471044f0e7bed89eebce21833d57fef244d44fa33803a2d095eb76f026ca30f4f4c50a2e7e8cf2c73bc2f94fe45d0bf6df0f9229aec947f99e27fae06a4438fd509373d484da8f373f5670222f104a1bdb00550023d7315113f5b1d3ba7a83604c44b94d79f4fd69af77f804fc7f920a6dc657440000000003a06bd8000000000000f063fffffff80000000066b3219d0000000066b3219c0000000003a4f8440000000000010b430b6fb5256469f21f0383b20b297032cb81ef1082fcaa9a5b11f8e46591436eaadd1d5e7a3e9215e8fc02904ac0e8da16f2332cabf8b6af2322fb208d871e248f6a73d9801be99ea8271ec3d42ac9de7979151bb2a31f072e9254dba376e2c751e713099c85272e5a530bfe12dad335d822dcc0486eb2bb94a99e54b9b8842ce1889abef28a9757202cfbc6146907986d8a861dc77756e80554f4cc9ee413c4479a03a2d095eb76f026ca30f4f4c50a2e7e8cf2c73bc2f94fe45d0bf6df0f9229aec947f99e27fae06a4438fd509373d484da8f373f5670222f104a1bdb0055009ee4e7c60b940440a261eb54b6d8149c23b580ed7da3139f7f08f4ea29dad3950000003cb967d3f0000000002b3cc5c2fffffff80000000066b3219d0000000066b3219c0000003cde1123d8000000002df91b400bf4b0efdb3fc780a3d18f5877db9366d12cc69def11d472b2bbcaca92106e396d6f63dc761e43243f2fc8bf8d6311b8fed6ae540cc577cd181d47c1cfa4bb59b275485894c2ff963b19e7bf9d367e8252cb266f075b25285374afa7bbbb8358c068627475c562dc00f3230379ba75c8e1a7c68bb606ba20d738ff46f3927590d40183ca3552ed992969bfd11627e93498faf5be0e9c73bce7b8c2f92446c74361e6db3a85f7a057074bc75bed057a7fffc009d082c2f94fe45d0bf6df0f9229aec947f99e27fae06a4438fd509373d484da8f373f5670222f104a1bdb0055003af6a3098c56f58ff47cc46dee4a5b1910e5c157f7f0b665952445867470d61f0000000005f46de900000000000199c5fffffff80000000066b3219d0000000066b3219c0000000005f442d90000000000019aee0bb01f960199d3a82f8253d652fe63fdc902640ebb26e0361365f71c0b2e2358697d9c399627a5c5fb478d922d1ff369607bff6a4e256322c4c5122419e2bf4b721aa40d36dc0cffa486a6aace58889be4892b1012c2d678dbc8d9234d991de3011cc956aa4c1c9a275dd2a899895df1a4659ac293076b37889e54b9b8842ce1889abef28a9757202cfbc6146907986d8a861dc77756e80554f4cc9ee413c4479a03a2d095eb76f026ca30f4f4c50a2e7e8cf2c73bc2f94fe45d0bf6df0f9229aec947f99e27fae06a4438fd509373d484da8f373f5670222f104a1bdb"
+            ],
+            "encoding": "hex"
+        },
+        "parsed": [
+            {
+                "ema_price": {
+                    "conf": "3536666000",
+                    "expo": -8,
+                    "price": "5686355600000",
+                    "publish_time": 1723015581
+                },
+                "id": "e62df6c8b4a85fe1a67db44dc12de5db330f7ac66b72dc658afedf0f4a415b43",
+                "metadata": {
+                    "prev_publish_time": 1723015580,
+                    "proof_available_time": 1723015581,
+                    "slot": 156946312
+                },
+                "price": {
+                    "conf": "3209006162",
+                    "expo": -8,
+                    "price": "5674821011012",
+                    "publish_time": 1723015581
+                }
+            },
+            {
+                "ema_price": {
+                    "conf": "152260917",
+                    "expo": -8,
+                    "price": "250449177000",
+                    "publish_time": 1723015581
+                },
+                "id": "ff61491a931112ddf1bd8147cd1b641375f79f5825126d665480874634fd0ace",
+                "metadata": {
+                    "prev_publish_time": 1723015580,
+                    "proof_available_time": 1723015581,
+                    "slot": 156946312
+                },
+                "price": {
+                    "conf": "141217640",
+                    "expo": -8,
+                    "price": "249860419477",
+                    "publish_time": 1723015581
+                }
+            },
+            {
+                "ema_price": {
+                    "conf": "54997",
+                    "expo": -8,
+                    "price": "51440081",
+                    "publish_time": 1723015581
+                },
+                "id": "3fa4252848f9f0a1480be62745a4629d9eb1322aebab8a791e344b3b9c1adcf5",
+                "metadata": {
+                    "prev_publish_time": 1723015580,
+                    "proof_available_time": 1723015581,
+                    "slot": 156946312
+                },
+                "price": {
+                    "conf": "52549",
+                    "expo": -8,
+                    "price": "51330206",
+                    "publish_time": 1723015581
+                }
+            },
+            {
+                "ema_price": {
+                    "conf": "1931886",
+                    "expo": -8,
+                    "price": "2131946650",
+                    "publish_time": 1723015581
+                },
+                "id": "93da3352f9f1d105fdfe4971cfa80e9dd777bfc5d0f683ebb6e1294b92137bb7",
+                "metadata": {
+                    "prev_publish_time": 1723015580,
+                    "proof_available_time": 1723015581,
+                    "slot": 156946312
+                },
+                "price": {
+                    "conf": "1927001",
+                    "expo": -8,
+                    "price": "2117512038",
+                    "publish_time": 1723015581
+                }
+            },
+            {
+                "ema_price": {
+                    "conf": "2104332",
+                    "expo": -8,
+                    "price": "1633076510",
+                    "publish_time": 1723015581
+                },
+                "id": "7a5bc1d2b56ad029048cd63964b3ad2776eadf812edc1a43a31406cb54bff592",
+                "metadata": {
+                    "prev_publish_time": 1723015580,
+                    "proof_available_time": 1723015581,
+                    "slot": 156946312
+                },
+                "price": {
+                    "conf": "2129764",
+                    "expo": -8,
+                    "price": "1619359513",
+                    "publish_time": 1723015581
+                }
+            },
+            {
+                "ema_price": {
+                    "conf": "68419",
+                    "expo": -8,
+                    "price": "61143108",
+                    "publish_time": 1723015581
+                },
+                "id": "23d7315113f5b1d3ba7a83604c44b94d79f4fd69af77f804fc7f920a6dc65744",
+                "metadata": {
+                    "prev_publish_time": 1723015580,
+                    "proof_available_time": 1723015581,
+                    "slot": 156946312
+                },
+                "price": {
+                    "conf": "61539",
+                    "expo": -8,
+                    "price": "60845016",
+                    "publish_time": 1723015581
+                }
+            },
+            {
+                "ema_price": {
+                    "conf": "771300160",
+                    "expo": -8,
+                    "price": "261423703000",
+                    "publish_time": 1723015581
+                },
+                "id": "9ee4e7c60b940440a261eb54b6d8149c23b580ed7da3139f7f08f4ea29dad395",
+                "metadata": {
+                    "prev_publish_time": 1723015580,
+                    "proof_available_time": 1723015581,
+                    "slot": 156946312
+                },
+                "price": {
+                    "conf": "725403074",
+                    "expo": -8,
+                    "price": "260808627184",
+                    "publish_time": 1723015581
+                }
+            },
+            {
+                "ema_price": {
+                    "conf": "105198",
+                    "expo": -8,
+                    "price": "99893977",
+                    "publish_time": 1723015581
+                },
+                "id": "3af6a3098c56f58ff47cc46dee4a5b1910e5c157f7f0b665952445867470d61f",
+                "metadata": {
+                    "prev_publish_time": 1723015580,
+                    "proof_available_time": 1723015581,
+                    "slot": 156946312
+                },
+                "price": {
+                    "conf": "104901",
+                    "expo": -8,
+                    "price": "99905001",
+                    "publish_time": 1723015581
+                }
+            }
+        ]
+    },
+    {
+        "binary": {
+            "data": [
+                "504e41550100000003b801000000040d00906ffefadc96b8fc499b871a6754b2f748cb1abfb990fcef79880df37a7442875d20c6a5952032f3252514457ddfa21897d335683016faaf103c4e06c0ac1fde00025a1b43fd85e638bc5b513ed71b49f7105f060b774889dc290990fc9d683fa77c7762a8fe4bc3a5699d48b4c966d8ae5aa3b68fe63560b2b3ad5527fead62e4f900033944e79bed3c72448c656b59d3e60c8a79970c25f79f227529ddf0263eae6364363e5bc5c47fc67d9779435b5b8080d5a77586eb0b393c5795653cf375053fea010446f0330b14211639fc9ce3318708a29b26a0cfe51616df8fe3bad50b8723b48a4eb6adcc27ca8b1ee159acb91e57101b289055ae8069ad2cab11c3d6e28af8b900067dedd43d5925c6da60ea95b02bbed91102eaa0a006767074adad2988f3dad24a3d8754312cd8a44bc442defc9003d92dd2dc2f8ba47923d30baef92e028295ae0008098794628fc6b8eb69099652628311304bb1b0345f21699cc9db9b99ebad72d643f44fab6635087730b7f66ef8f3602b29e12c01eac16450cb51e9086fc0867c010a72bef75ff3d3bf9fde5a7498d982610594f188395f532a497153e9e3f6023702286ab6d042a727b16f6a3996e2db6365401f014b9599af0d4ec75490c2884ec7010b9638f2764671b8d7d3becead98eae7a9ad1f31aa6b3ff624968a0f9b01757c513a3a0cb16dd3f441b404d39922ab23c5868358f4ef7d13cd23e5f2b7e3f5c427010d1da12d2c670a955550934dba024e01ed6c39a86e3b1900e7d229ed07773223c100c8401b6277342c4e73c6f6247d42ccc351e27d7c7a7772a9dcc2618fefba55010e03ad94bf9ef8e78deb2d5a8c59c26c9b0babddb27c6fa2572aad568ce5e3c88563891b81aa13b76f65a64f4f7a143c783a12d2a312eb28783f9b086e8af491f6010f56acec6eddc677b423feb9edbe4e8daab68aed6a556af7d4aee109022ed48a9842c1964686d16f741bd7fb4646935589b3be1c3f30969b41136e52b7b6c1fef801102b65f64db91b0760050b988d1f8ddb751c5e49cd66e72cfd1a9005f13093599a466e9e91ae47ae9b989d759042f4ded97abe1374a77b942e8da8bcd214c5aa420112f7c266097dc7ced6064deea71670f0673671ce4cb1f5f7016685c1dafcd344a6629b73913e1aa806743c17faa0bfcbf7fe1e39309fdd43a7bf5bca9da71744120166b321e900000000001ae101faedac5851e32b9b23b5f9411a8c2bac4aae3ed4dd7b811dd1a72ea4aa7100000000045023de01415557560000000000095ad03b000027105420d41293c771056febab6b8294791991eda11808005500e62df6c8b4a85fe1a67db44dc12de5db330f7ac66b72dc658afedf0f4a415b4300000529608f698100000000d112fcb7fffffff80000000066b321e90000000066b321e90000052be55cd94000000000d2cfadc80bfc13ea07f4690abc1d9cb6e8e4839bdde168c237389116f2227a70a653265c9357ac05bf88962a2f89decd937f8db8ddfe511c8562ea473ea8cacc795ce5e9b875c812b18369ac8ecb9ed37e4e7e4c73fa41ab28716606e74e2f6bb46b155e9acf26e2d7d906c1041cb424c64ab632223c1a77b727b8b3529d57acb28df3275469366ba5a86d95f813042fe8f607a321545dabaeea7445aac20a7aba2a228b59b0a2befa7d277b4fba6e9ccc030163fbd37767c2a04d67f19a05bd3a11a3883046a4980e082decd0d5e8c1026de8ff93b3ef3149c8a3a64748c143d4005500ff61491a931112ddf1bd8147cd1b641375f79f5825126d665480874634fd0ace0000003a32abffd30000000009b20a05fffffff80000000066b321e90000000066b321e90000003a4f2a6a780000000009129fd50b0d064d5b44d61c4909a65e20d0c33f09f3f3c4d2f09e9b64e30ba2dbfd9d035ca7afd00b60d840957bc6a4469621f2f43e9aa699f6ef372ce5b86afcbd92071aeebbd286d0373c4cd5d591fba48f73969ff53455c36b1e408ba71e28fb4292425aa5d9b09ab92227ddd94c6091648763bbfa2b1284e14771c675f87e469cb82c59cd33cca8bd39ed0f5a395f467e1b76bfbb9525ba72d7c95b4f01f2d54e641700719fc006489168182733e1a73fbd29a9db4595d4f5934a3658ac6beede535085405b4f2577a303d5e8c1026de8ff93b3ef3149c8a3a64748c143d40055003fa4252848f9f0a1480be62745a4629d9eb1322aebab8a791e344b3b9c1adcf500000000030ffc2f000000000000d3a3fffffff80000000066b321e90000000066b321e9000000000310dfba000000000000d6a00beca0d9b83c9f0d801451bc91fbbe88aab9e70fc64e49ee99f055ba12b38be3bd9ccbe98473845a74de1353fc1e754f686b3ba7912c01005e519adbdf4596655ff29944ad26640b415cc8722b23657a443d7b59a9c34dbeb5ff146b222acd638e318b35de94b291c8d33a3633ad99476c9439b7b6ed92092cadc59be33b16f7f89b0b6fd6dbaea71acef547700e390e2dfa1716501cd5a9a7940f924a16bb88e52bafc3465ad16776c5428be9efb22810ceed3c11a04d67f19a05bd3a11a3883046a4980e082decd0d5e8c1026de8ff93b3ef3149c8a3a64748c143d400550093da3352f9f1d105fdfe4971cfa80e9dd777bfc5d0f683ebb6e1294b92137bb7000000007e57998e00000000002205fffffffff80000000066b321e90000000066b321e9000000007f0e588800000000001d76f60b9a00db1a4dc6c130f357767d5e63155de03cede929dbaf680e44ac01ee20ca8d4da75cc2f19566d22e228f619ec0d18a861e582f6c550b571473c81bd4d693796b517d2c757f50dbad574b7d1be013cdcbc54447a7226b7f95b3e48dbd990e1faba54053f60e41c43e1efaf46bdcc4de974f5ff3cf51953466051a18ba94946cf19408a61f5d3b473d1fb24841e4fc8fb6f3391bd9c75a595e7bf3ed56b3e055b0a2befa7d277b4fba6e9ccc030163fbd37767c2a04d67f19a05bd3a11a3883046a4980e082decd0d5e8c1026de8ff93b3ef3149c8a3a64748c143d40055007a5bc1d2b56ad029048cd63964b3ad2776eadf812edc1a43a31406cb54bff592000000006097bcc000000000001cf69efffffff80000000066b321e90000000066b321e90000000061522b9e00000000002017000bd1e030febe4b2724529bfe5e6e679ac22e2b95b369b19f4e7279422cc42b93710656108f332431e1204dbdcdad157cc7d10098be5cebe2d669dfd2cc89bc27769ff75dd477f93772335c36aa25010b8fb0d2a31e071421b406353dfc13eed9ada155eb9c16f5b0bd74d25db853feb6aaddf3c72dadde242b88a5f8edf0cd73555d17849dae91270cda4cb587eb3de9e602430c05d5e83399e03119cecb4f28952bafc3465ad16776c5428be9efb22810ceed3c11a04d67f19a05bd3a11a3883046a4980e082decd0d5e8c1026de8ff93b3ef3149c8a3a64748c143d400550023d7315113f5b1d3ba7a83604c44b94d79f4fd69af77f804fc7f920a6dc657440000000003a0a483000000000000f41afffffff80000000066b321e90000000066b321e90000000003a4dd440000000000010b3b0b6fb5256469f21f0383b20b297032cb81ef1082fc6e20b3efce8217b15549649b9b79a6e5442ec6df479ff1d3095342f50cdee4625bd62c74e63392681c40236ba641e1d2d1eb20571d459dad9ee81dd110ffdf56cd772516dd4024136df225adebcc97f561f4cade126f5624b9914401fad66e63056a2053adc59be33b16f7f89b0b6fd6dbaea71acef547700e390e2dfa1716501cd5a9a7940f924a16bb88e52bafc3465ad16776c5428be9efb22810ceed3c11a04d67f19a05bd3a11a3883046a4980e082decd0d5e8c1026de8ff93b3ef3149c8a3a64748c143d40055009ee4e7c60b940440a261eb54b6d8149c23b580ed7da3139f7f08f4ea29dad3950000003cb9b22e5f000000002b872031fffffff80000000066b321e90000000066b321e90000003cdd38e090000000002df2b9800bfc706bd97a6077493d110c2c5684299581f63d0c07e2dc2d52b5763534b62bd41bd31621adaa04cf53a37dc8dad9abdb42ffe33e3dc5a7702788d803d05792421d306ee6caede64c39536f02232c690bca110fc061557572096793c468f69209225c01fba43f657b2f39eff23eea7d0a63f4ecc9b6c42ce57f953cbff68864089e64aa68c3c977c1cc83cd3a41e4fc8fb6f3391bd9c75a595e7bf3ed56b3e055b0a2befa7d277b4fba6e9ccc030163fbd37767c2a04d67f19a05bd3a11a3883046a4980e082decd0d5e8c1026de8ff93b3ef3149c8a3a64748c143d40055003af6a3098c56f58ff47cc46dee4a5b1910e5c157f7f0b665952445867470d61f0000000005f46dea0000000000018f70fffffff80000000066b321e90000000066b321e90000000005f443c90000000000019ae50bb01f960199d3a82f8253d652fe63fdc902640ebbc7245364adb21e75e41fd5bb445a3abee230b7ba3e2155b18db6f8755b013b53efc192efe3c891bed18f1a3cc7f3dd4f196babeb5e78cfe1e4796cbb523a1286e2ee6bc24c8aa9603d1a91a93d0d854194b291c8d33a3633ad99476c9439b7b6ed92092cadc59be33b16f7f89b0b6fd6dbaea71acef547700e390e2dfa1716501cd5a9a7940f924a16bb88e52bafc3465ad16776c5428be9efb22810ceed3c11a04d67f19a05bd3a11a3883046a4980e082decd0d5e8c1026de8ff93b3ef3149c8a3a64748c143d4"
+            ],
+            "encoding": "hex"
+        },
+        "parsed": [
+            {
+                "ema_price": {
+                    "conf": "3536825800",
+                    "expo": -8,
+                    "price": "5686089800000",
+                    "publish_time": 1723015657
+                },
+                "id": "e62df6c8b4a85fe1a67db44dc12de5db330f7ac66b72dc658afedf0f4a415b43",
+                "metadata": {
+                    "prev_publish_time": 1723015657,
+                    "proof_available_time": 1723015658,
+                    "slot": 156946491
+                },
+                "price": {
+                    "conf": "3507682487",
+                    "expo": -8,
+                    "price": "5675271809409",
+                    "publish_time": 1723015657
+                }
+            },
+            {
+                "ema_price": {
+                    "conf": "152215509",
+                    "expo": -8,
+                    "price": "250436283000",
+                    "publish_time": 1723015657
+                },
+                "id": "ff61491a931112ddf1bd8147cd1b641375f79f5825126d665480874634fd0ace",
+                "metadata": {
+                    "prev_publish_time": 1723015657,
+                    "proof_available_time": 1723015658,
+                    "slot": 156946491
+                },
+                "price": {
+                    "conf": "162662917",
+                    "expo": -8,
+                    "price": "249958236115",
+                    "publish_time": 1723015657
+                }
+            },
+            {
+                "ema_price": {
+                    "conf": "54944",
+                    "expo": -8,
+                    "price": "51437498",
+                    "publish_time": 1723015657
+                },
+                "id": "3fa4252848f9f0a1480be62745a4629d9eb1322aebab8a791e344b3b9c1adcf5",
+                "metadata": {
+                    "prev_publish_time": 1723015657,
+                    "proof_available_time": 1723015658,
+                    "slot": 156946491
+                },
+                "price": {
+                    "conf": "54179",
+                    "expo": -8,
+                    "price": "51379247",
+                    "publish_time": 1723015657
+                }
+            },
+            {
+                "ema_price": {
+                    "conf": "1930998",
+                    "expo": -8,
+                    "price": "2131646600",
+                    "publish_time": 1723015657
+                },
+                "id": "93da3352f9f1d105fdfe4971cfa80e9dd777bfc5d0f683ebb6e1294b92137bb7",
+                "metadata": {
+                    "prev_publish_time": 1723015657,
+                    "proof_available_time": 1723015658,
+                    "slot": 156946491
+                },
+                "price": {
+                    "conf": "2229759",
+                    "expo": -8,
+                    "price": "2119670158",
+                    "publish_time": 1723015657
+                }
+            },
+            {
+                "ema_price": {
+                    "conf": "2103040",
+                    "expo": -8,
+                    "price": "1632775070",
+                    "publish_time": 1723015657
+                },
+                "id": "7a5bc1d2b56ad029048cd63964b3ad2776eadf812edc1a43a31406cb54bff592",
+                "metadata": {
+                    "prev_publish_time": 1723015657,
+                    "proof_available_time": 1723015658,
+                    "slot": 156946491
+                },
+                "price": {
+                    "conf": "1898142",
+                    "expo": -8,
+                    "price": "1620556992",
+                    "publish_time": 1723015657
+                }
+            },
+            {
+                "ema_price": {
+                    "conf": "68411",
+                    "expo": -8,
+                    "price": "61136196",
+                    "publish_time": 1723015657
+                },
+                "id": "23d7315113f5b1d3ba7a83604c44b94d79f4fd69af77f804fc7f920a6dc65744",
+                "metadata": {
+                    "prev_publish_time": 1723015657,
+                    "proof_available_time": 1723015658,
+                    "slot": 156946491
+                },
+                "price": {
+                    "conf": "62490",
+                    "expo": -8,
+                    "price": "60859523",
+                    "publish_time": 1723015657
+                }
+            },
+            {
+                "ema_price": {
+                    "conf": "770881920",
+                    "expo": -8,
+                    "price": "261409530000",
+                    "publish_time": 1723015657
+                },
+                "id": "9ee4e7c60b940440a261eb54b6d8149c23b580ed7da3139f7f08f4ea29dad395",
+                "metadata": {
+                    "prev_publish_time": 1723015657,
+                    "proof_available_time": 1723015658,
+                    "slot": 156946491
+                },
+                "price": {
+                    "conf": "730275889",
+                    "expo": -8,
+                    "price": "260813499999",
+                    "publish_time": 1723015657
+                }
+            },
+            {
+                "ema_price": {
+                    "conf": "105189",
+                    "expo": -8,
+                    "price": "99894217",
+                    "publish_time": 1723015657
+                },
+                "id": "3af6a3098c56f58ff47cc46dee4a5b1910e5c157f7f0b665952445867470d61f",
+                "metadata": {
+                    "prev_publish_time": 1723015657,
+                    "proof_available_time": 1723015658,
+                    "slot": 156946491
+                },
+                "price": {
+                    "conf": "102256",
+                    "expo": -8,
+                    "price": "99905002",
+                    "publish_time": 1723015657
+                }
+            }
+        ]
+    },
+    {
+        "binary": {
+            "data": [
+                "504e41550100000003b801000000040d003514d259e3633e1d70554af21ad608e687d32612cc630be5a686ea5128e9651a2d183c0ffc36df96def11e7118b5f9a4c825e0fc0b213b32c9350e9d748fc14a0002e684698e72e5fc5aee8ecbb2e311189790dfb70c62f931408d73da3503d876b70ed92521372b4d3f71b24c356e7683a18518fd7802048ad400af577562aa8e530103c54a345eef80d0c17b8a8c179dc547f7524bcb229b33dd53a77179b317f1be623ad88231dc8f5ea2a52e724289b783584f6c9dd82bdf1e2217931ff6b7b5168000042bd8a1c1edce1c973a4850aa6f4d00795c72b936e510b7f0fe81fac900e0968f185bf451ace28c206fdf9c535c3e77f892dbb01374c7c42e05c435c8b119835e01061a18b4ef7422e1e04116c4af6e17acdbce3571defd55726c4a289f70c016500e5fa68f88ebf5da449fbb0b7950765d8a8f8ef1c726d540e9a9770f42aa51d2af010801d63c39b3b3a7ed93dcd3220a8e0f439a4a0c7324af56c442f94d4f1f80a99971ca7a75f95b20d91745f249d963d6b1aff87c8d575363b4e31e1f624c533706010a090c924a20f804a9e82c79a1681eb455599db62aacf4cde9f7f29fd801ccb0942f46748110add88550433c2534a039321b42d8a5540319ffda7d1c7141767218010bc62d8af90c963675ed180faf86bebfaf86be8b00254f9c72a2d05a36e00ce6f36bf2a5be3dc0da4cfa9dac8ba4eded8c8d7ee1141cb7c6adf947dcfaaaa6eae5000d7321f35eaa7088c9e17663c4a43235b1da5bdcafe30d4fcfb09435e206323ae377091e220e3ae87b1d53a88f093cc49fcb205ff7ebb01599355dc7f802077169000ef2ad770d40aca8ab9a20cdc63f78ae3482f199bfb30900c105d8bfaa0c2aabde3e924ff71aebf1e77c3426cc358409de44eaa441440f12d03df7c795f97b2e98010f05f78d0574716e9eba2b8f39307929221d04924092f3c9383398c8198e3b3bee60df8311a8fa3fb1252410a3dc0b9aee67f35ce3fc271ae25e537e120c487d560110188955cca2cf8fc0015b18262b4e3bab13044c66413f3c13de6d54eb80173ea91c6f784cf739241fe0eaaf557fcc1e3a4ee2d218aaf7350b22a7b5bd5ba4740a0012c6eb699db8d6006a2cb4d5dea89ae7a427a0cff74d0bc06972ffc6513578e5c668840ac50cd7e0b4cd43dfe5c493d91fef0e8231cdaf907d783eb0612af0bd770066b3227000000000001ae101faedac5851e32b9b23b5f9411a8c2bac4aae3ed4dd7b811dd1a72ea4aa71000000000450251b01415557560000000000095ad17800002710cabd05ba11d0eec1eae64e5147a87a1781a22a4a08005500e62df6c8b4a85fe1a67db44dc12de5db330f7ac66b72dc658afedf0f4a415b43000005296f90361c00000000dd57d1acfffffff80000000066b322700000000066b3226f0000052bce54da4000000000d2b10df00bfc13ea07f4690abc1d9cb6e8e4839bdde168c23704b5cd8cac976ddfc24a5e071d286946be9ce817da3c7f896612ab47911ffb5e4997439c71cb93bb09c6f569613ebcde9445bc3bc18abb2d9f6b8e6776443ca6a263f0e1cbbc56224971479b6898a71dcd222ae55ad0587c0a9fa2773ec6316940c2af0f16a023ad4c804870e933acd68a50736a452f9fd09333048a3d91e5933cbc95066ab381654ec6be77fe199e65fcb2e544bcd96016dda6d2f733ea3b540f041f19cdbc15f16a7f348465f19d682c31ad05994d3aa1d1093427131236eabd15e83fc73f275a005500ff61491a931112ddf1bd8147cd1b641375f79f5825126d665480874634fd0ace0000003a352ce3bc00000000085bed4dfffffff80000000066b322700000000066b3226f0000003a4e5b8d7000000000090fe4880b3c43a44797bfebd1c46707377cbcb1b2704f731059a04bbe2b246381dc220189f69fef2639ceb3c840508b7d3fbc7c774598971eb2535a06054cc267b0d762e7788f61bd5981e764630fa1624513474192f1c29322576e4ed509c7d24e06b1492c187d8e6d568a0e1545067d3b47503a1eaa288634ea4a09bce51beb5d8578b655247847932d885a198f614597fdce4b8c34ed1cdb85a5a5b9559f0e17a9493cb8f4d9708360054ff2e5dfccead1f0393411fc2991c5c0bb7f8d94e4aa5012d7d3b50b6aed1b5008994d3aa1d1093427131236eabd15e83fc73f275a0055003fa4252848f9f0a1480be62745a4629d9eb1322aebab8a791e344b3b9c1adcf500000000030feded000000000000d98bfffffff80000000066b322700000000066b3226f000000000310d6e5000000000000d6a30beca0d9b83c9f0d801451bc91fbbe88aab9e70fc625a148a9f44a8155352d4c9685596beea48bb9cea326bee48eebef50c52705de42b5251174e401b64c74dac567a795af68b9bb97cc58bec967b468b4e7c9ca4c013f279225b55d68fa8562b2baa8daf73e9baf65e26fb7af09684123906008fd8d28d219325290096ec797fe7f78ab550501f36e9111e06a6c693685578d999b30673e07efb153b4174c43ad6288d0387ad7a433f17a4fa064a0b4dd0b57f89f0f041f19cdbc15f16a7f348465f19d682c31ad05994d3aa1d1093427131236eabd15e83fc73f275a00550093da3352f9f1d105fdfe4971cfa80e9dd777bfc5d0f683ebb6e1294b92137bb7000000007e50374200000000001a3f03fffffff80000000066b322700000000066b3226f000000007f07925000000000001d6c780b2ffbc8550e64c77e0cea8a1a3a52d052571f629edb00363046f7e468428d798022d7e4e6c1eb08047a52034f0e5037eda67b034e4393fec6d9e53d81db63533e8a38e3f70746c265998bbdd586a973e69b78de752b095df22afe9b50cf5a7d42b41ca6c7c1038ba7ef729d5bc7f296e5f1cdf04ba9efc8dcb3b29f9c30f70e8d3dd2327df98b09a4228ba0be8e8b30933fef2f91d43c8e9a54c5166b3cb92171fe199e65fcb2e544bcd96016dda6d2f733ea3b540f041f19cdbc15f16a7f348465f19d682c31ad05994d3aa1d1093427131236eabd15e83fc73f275a0055007a5bc1d2b56ad029048cd63964b3ad2776eadf812edc1a43a31406cb54bff59200000000608c107f00000000001c96bbfffffff80000000066b322700000000066b3226f00000000614afa5400000000002003f60bbe46d27f5f9554031f08344e46e3c8773404167e69b19f4e7279422cc42b93710656108f332431e12f1cd59f1428a16ddfef06187a79f0d063b3d1fcb17f1dea0051bf2e0b3f2c011b47f76eda3c3c7383c4891e1c7c06cd61ebea615a50085116fb8c3f1f80c4e3accba13b279e606f11995b68ce9f06ba59cbff4227827481d35e76090912729ea6450ab5ad6848062cf2d86b1547fcd740efac583951e6bf6288d0387ad7a433f17a4fa064a0b4dd0b57f89f0f041f19cdbc15f16a7f348465f19d682c31ad05994d3aa1d1093427131236eabd15e83fc73f275a00550023d7315113f5b1d3ba7a83604c44b94d79f4fd69af77f804fc7f920a6dc657440000000003a1b100000000000000fac2fffffff80000000066b322700000000066b3226f0000000003a4bcbe0000000000010ae60b6fb5256469f21f0383b20b297032cb81ef1082fc968a51e2d6bc4cb99f4bac2a8f7fe1f6a1b52bf83bbb50f4e1b7f2459a6f69399fafbf025e59a4970c6a86e270c5b748ae4afc657b1d379b4864c264ef7f4c480567e6f62e9cc839c2afc13f8790ca1f0ffb4dee5cb8a15c7643609e211f776136281777325290096ec797fe7f78ab550501f36e9111e06a6c693685578d999b30673e07efb153b4174c43ad6288d0387ad7a433f17a4fa064a0b4dd0b57f89f0f041f19cdbc15f16a7f348465f19d682c31ad05994d3aa1d1093427131236eabd15e83fc73f275a0055009ee4e7c60b940440a261eb54b6d8149c23b580ed7da3139f7f08f4ea29dad3950000003cc0d19b40000000002782c883fffffff80000000066b322700000000066b3226f0000003cdbdb5fe8000000002dacedd80b4949c996264a791ca9fb3a6370d297ff4614f1c28aea2586452f29aea73b9d8b9dd08852f4da06fa51b561005200fa41d300b6c5f070116cb0790bf08d01ac8d365f20381e3142c6d7ea3ecba90cc39e3655070b95762ab2a78934448461e13ddd2ec7ad66730678e40f97b02a2365e3b6cd7e846a76a740cbe3ea21e6f25b4c6d6cd43d51d36a4cb38099208e8b30933fef2f91d43c8e9a54c5166b3cb92171fe199e65fcb2e544bcd96016dda6d2f733ea3b540f041f19cdbc15f16a7f348465f19d682c31ad05994d3aa1d1093427131236eabd15e83fc73f275a0055003af6a3098c56f58ff47cc46dee4a5b1910e5c157f7f0b665952445867470d61f0000000005f46de800000000000199c4fffffff80000000066b322700000000066b3226f0000000005f445650000000000019ad40bb01f960199d3a82f8253d652fe63fdc902640ebbc8a4cf99c2dafd184d9172ade0dce480ba8a4d499ce0f006d4e5e6fdeb2e4a44541139045b9b107e9a0788bd2f1665435c81a939e9293ffb8bf2ccdecc0329b1e3bf9aa5a031114872c7d6f4cb36af153e9baf65e26fb7af09684123906008fd8d28d219325290096ec797fe7f78ab550501f36e9111e06a6c693685578d999b30673e07efb153b4174c43ad6288d0387ad7a433f17a4fa064a0b4dd0b57f89f0f041f19cdbc15f16a7f348465f19d682c31ad05994d3aa1d1093427131236eabd15e83fc73f275a"
+            ],
+            "encoding": "hex"
+        },
+        "parsed": [
+            {
+                "ema_price": {
+                    "conf": "3534818800",
+                    "expo": -8,
+                    "price": "5685703400000",
+                    "publish_time": 1723015792
+                },
+                "id": "e62df6c8b4a85fe1a67db44dc12de5db330f7ac66b72dc658afedf0f4a415b43",
+                "metadata": {
+                    "prev_publish_time": 1723015791,
+                    "proof_available_time": 1723015794,
+                    "slot": 156946808
+                },
+                "price": {
+                    "conf": "3713520044",
+                    "expo": -8,
+                    "price": "5675523520028",
+                    "publish_time": 1723015792
+                }
+            },
+            {
+                "ema_price": {
+                    "conf": "152036488",
+                    "expo": -8,
+                    "price": "250422726000",
+                    "publish_time": 1723015792
+                },
+                "id": "ff61491a931112ddf1bd8147cd1b641375f79f5825126d665480874634fd0ace",
+                "metadata": {
+                    "prev_publish_time": 1723015791,
+                    "proof_available_time": 1723015794,
+                    "slot": 156946808
+                },
+                "price": {
+                    "conf": "140242253",
+                    "expo": -8,
+                    "price": "250000237500",
+                    "publish_time": 1723015792
+                }
+            },
+            {
+                "ema_price": {
+                    "conf": "54947",
+                    "expo": -8,
+                    "price": "51435237",
+                    "publish_time": 1723015792
+                },
+                "id": "3fa4252848f9f0a1480be62745a4629d9eb1322aebab8a791e344b3b9c1adcf5",
+                "metadata": {
+                    "prev_publish_time": 1723015791,
+                    "proof_available_time": 1723015794,
+                    "slot": 156946808
+                },
+                "price": {
+                    "conf": "55691",
+                    "expo": -8,
+                    "price": "51375597",
+                    "publish_time": 1723015792
+                }
+            },
+            {
+                "ema_price": {
+                    "conf": "1928312",
+                    "expo": -8,
+                    "price": "2131202640",
+                    "publish_time": 1723015792
+                },
+                "id": "93da3352f9f1d105fdfe4971cfa80e9dd777bfc5d0f683ebb6e1294b92137bb7",
+                "metadata": {
+                    "prev_publish_time": 1723015791,
+                    "proof_available_time": 1723015794,
+                    "slot": 156946808
+                },
+                "price": {
+                    "conf": "1720067",
+                    "expo": -8,
+                    "price": "2119186242",
+                    "publish_time": 1723015792
+                }
+            },
+            {
+                "ema_price": {
+                    "conf": "2098166",
+                    "expo": -8,
+                    "price": "1632303700",
+                    "publish_time": 1723015792
+                },
+                "id": "7a5bc1d2b56ad029048cd63964b3ad2776eadf812edc1a43a31406cb54bff592",
+                "metadata": {
+                    "prev_publish_time": 1723015791,
+                    "proof_available_time": 1723015794,
+                    "slot": 156946808
+                },
+                "price": {
+                    "conf": "1873595",
+                    "expo": -8,
+                    "price": "1619791999",
+                    "publish_time": 1723015792
+                }
+            },
+            {
+                "ema_price": {
+                    "conf": "68326",
+                    "expo": -8,
+                    "price": "61127870",
+                    "publish_time": 1723015792
+                },
+                "id": "23d7315113f5b1d3ba7a83604c44b94d79f4fd69af77f804fc7f920a6dc65744",
+                "metadata": {
+                    "prev_publish_time": 1723015791,
+                    "proof_available_time": 1723015794,
+                    "slot": 156946808
+                },
+                "price": {
+                    "conf": "64194",
+                    "expo": -8,
+                    "price": "60928256",
+                    "publish_time": 1723015792
+                }
+            },
+            {
+                "ema_price": {
+                    "conf": "766307800",
+                    "expo": -8,
+                    "price": "261386625000",
+                    "publish_time": 1723015792
+                },
+                "id": "9ee4e7c60b940440a261eb54b6d8149c23b580ed7da3139f7f08f4ea29dad395",
+                "metadata": {
+                    "prev_publish_time": 1723015791,
+                    "proof_available_time": 1723015794,
+                    "slot": 156946808
+                },
+                "price": {
+                    "conf": "662882435",
+                    "expo": -8,
+                    "price": "260933000000",
+                    "publish_time": 1723015792
+                }
+            },
+            {
+                "ema_price": {
+                    "conf": "105172",
+                    "expo": -8,
+                    "price": "99894629",
+                    "publish_time": 1723015792
+                },
+                "id": "3af6a3098c56f58ff47cc46dee4a5b1910e5c157f7f0b665952445867470d61f",
+                "metadata": {
+                    "prev_publish_time": 1723015791,
+                    "proof_available_time": 1723015794,
+                    "slot": 156946808
+                },
+                "price": {
+                    "conf": "104900",
+                    "expo": -8,
+                    "price": "99905000",
+                    "publish_time": 1723015792
+                }
+            }
+        ]
+    }
+]
