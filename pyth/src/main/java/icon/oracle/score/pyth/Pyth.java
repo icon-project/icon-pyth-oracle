@@ -28,7 +28,6 @@ public class Pyth {
 
     @External
     public void updatePriceFeed(byte[][] data) {
-        Context.setFeeSharingProportion(90);
         for (byte[] datum : data) {
             parseUpdate(datum);
         }
