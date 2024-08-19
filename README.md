@@ -16,8 +16,11 @@ When verified the pyth contract verifies the merkle proof and extracts the price
 
 ### Oracle contract
 Proof logic taken from:
+
 [Wormhole proof logic Cosmwasm](https://github.com/wormhole-foundation/wormhole/tree/main/cosmwasm/contracts/wormhole/src)
+
 [Pyth merkle proof logic Cosmwasm](https://github.com/pyth-network/pyth-crosschain/tree/main/target_chains/cosmwasm/contracts/pyth/src)
+
 [Pyth merkle proof logic Solidity](https://github.com/pyth-network/pyth-crosschain/tree/main/target_chains/ethereum/contracts/contracts/pyth)
 
 
