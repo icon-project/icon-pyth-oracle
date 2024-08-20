@@ -20,11 +20,13 @@ const priceMonitor = new PriceMonitor(config);
             priceMonitor.onPriceUpdate(data);
         };
 
-        // Error handling for the event source
-        // eventSource.onerror = (err) => {
-        // };
+        eventSource.onerror = (error: any) => {
+            console.log("Data stream failed: "+ error)
+            process.exit(1);
+        };
 
     } catch (error) {
+        console.log("Data stream failed: "+ error)
         process.exit(1);
     }
 })();

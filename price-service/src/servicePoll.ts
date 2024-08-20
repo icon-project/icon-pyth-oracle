@@ -8,8 +8,14 @@ const priceMonitor = new PriceMonitor(config);
 const connection = new HermesClient(config.pyth_url);
 
 async function poll() {
-    const priceUpdates = await connection.getLatestPriceUpdates(config.priceIds);
-    priceMonitor.updatePrice(priceUpdates)
+    try {
+        const priceUpdates = await connection.getLatestPriceUpdates(config.priceIds);
+        priceMonitor.updatePrice(priceUpdates)
+
+    } catch (error) {
+        console.log("Data stream failed: "+ error)
+        process.exit(1);
+    }
 }
 
 setInterval(poll, config.interval*1000)

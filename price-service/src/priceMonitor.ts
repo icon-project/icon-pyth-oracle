@@ -1,8 +1,9 @@
 import { Price, PriceFeed } from "./priceFeed";
+import { ServiceConfig } from "./serviceConfig";
 import IconService, { HttpProvider, CallTransactionBuilder, Wallet, SignedTransaction} from 'icon-sdk-js';
 
-
 export class PriceMonitor {
+    private DEFAULT_STEP_LIMIT: number  = 400000000
     private prices: Map<string, Price> = new Map();
     private threshold: number;
     private minInterval: number;
@@ -12,8 +13,9 @@ export class PriceMonitor {
     private wallet: Wallet;
     private address: string;
     private nid: string;
+    private stepLimit: number;
 
-    constructor(config: any) {
+    constructor(config: ServiceConfig) {
         this.threshold = config.priceChangeThreshold / 100;
         this.minInterval = config.interval;
         this.provider = new HttpProvider(config.icon_url);
@@ -21,6 +23,7 @@ export class PriceMonitor {
         this.wallet = Wallet.loadPrivateKey(config.icon_pk);
         this.address = config.address;
         this.nid = config.nid;
+        this.stepLimit = config.stepLimit || this.DEFAULT_STEP_LIMIT;
     }
 
     public async onPriceUpdate(feed: PriceFeed): Promise<void> {
@@ -42,10 +45,14 @@ export class PriceMonitor {
                     }
                 }
 
-                await this.updatePrice(feed);
+                if (!await this.updatePrice(feed)) {
+                    return
+                }
+
                 feed.parsed.forEach(priceEntry => {
                     this.prices.set(priceEntry.id, priceEntry.price)
                 })
+
                 return;
             };
         } finally {
@@ -53,12 +60,12 @@ export class PriceMonitor {
         }
     }
 
-    public async updatePrice(feed: PriceFeed): Promise<void> {
+    public async updatePrice(feed: PriceFeed): Promise<boolean> {
         const timestamp = (new Date()).getTime() * 1000;
         let tx = new CallTransactionBuilder()
             .nid(this.nid)
             .from(this.wallet.getAddress())
-            .stepLimit(400000000)
+            .stepLimit(this.stepLimit)
             .timestamp(timestamp)
             .to(this.address)
             .method("updatePriceFeed")
@@ -69,7 +76,33 @@ export class PriceMonitor {
             .build();
 
         const signedTransaction: SignedTransaction = new SignedTransaction(tx, this.wallet);
-        const res = await this.iconService.sendTransaction(signedTransaction).execute();
-        console.log(res)
+        const txHash = await this.iconService.sendTransaction(signedTransaction).execute();
+        const transactionResult = await this.getTxResult(txHash);
+        const res =  transactionResult.status === 1;
+        if (!res) {
+            console.log(transactionResult)
+        }
+
+        console.log(txHash)
+        return res
+    }
+
+    private async getTxResult(txHash: string): Promise<any> {
+        let attempt = 0;
+        let maxRetries = 10;
+        while (attempt < maxRetries) {
+            try {
+                const result = await this.iconService.getTransactionResult(txHash).execute();
+                return result; // If the function is successful, return the result
+            } catch (error) {
+                attempt++;
+                if (attempt >= maxRetries) {
+                    throw new Error(`Failed to resolve ${txHash}: ${error}`);
+                }
+                await new Promise(resolve => setTimeout(resolve, 1000)); // Wait before retrying
+            }
+        }
+
+        throw new Error(`Failed after ${attempt} attempts`);
     }
 }
