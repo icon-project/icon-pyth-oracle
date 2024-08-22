@@ -3,11 +3,14 @@ version = '0.1.0'
 dependencies {
     compileOnly("foundation.icon:javaee-api:$javaeeVersion")
     implementation("foundation.icon:javaee-scorex:$scorexVersion")
-    implementation project(':score-lib')
+    implementation("foundation.icon:icon-sdk:$iconsdkVersion")
 
-    testImplementation project(':test-lib')
     testImplementation("foundation.icon:javaee-unittest:$javaeeUnittestVersion")
     testImplementation("org.junit.jupiter:junit-jupiter-api:$jupiterApiVersion")
+    testImplementation("org.mockito:mockito-core:$mockitoCoreVersion")
+    testImplementation("org.junit.jupiter:junit-jupiter-engine:$jupiterEngineVersion")
+    testImplementation("com.fasterxml.jackson.core:jackson-databind:$jacksonVersion")
+
 }
 
 test {
@@ -29,7 +32,6 @@ jacocoTestReport {
 }
 
 optimizedJar {
-    dependsOn project(':score-lib').jar
     mainClassName = 'icon.oracle.score.pyth.Pyth'
     duplicatesStrategy = DuplicatesStrategy.EXCLUDE
     from {
@@ -46,6 +48,7 @@ deployJar {
         lisbon {
             uri = 'https://lisbon.net.solidwallet.io/api/v3'
             nid = 0x2
+            to = "cx7380205103a9076aae26d1c761a8bb6652ecf30f"
         }
         local {
             uri = 'http://localhost:9082/api/v3'
@@ -59,6 +62,7 @@ deployJar {
     keystore = rootProject.hasProperty('keystoreName') ? "$keystoreName" : ''
     password = rootProject.hasProperty('keystorePass') ? "$keystorePass" : ''
 }
+
 
 task integrationTest(type: Test) {
     useJUnitPlatform()
@@ -81,4 +85,3 @@ task integrationTest(type: Test) {
     }
 
 }
-

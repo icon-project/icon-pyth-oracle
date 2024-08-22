@@ -1,0 +1,20 @@
+{
+    "pyth_url": "https://hermes.pyth.network",
+    "icon_url": "https://lisbon.net.solidwallet.io/api/v3",
+    "icon_pk": "7c739961afd3df0c36d4365037540d8e4ebb4e4584f9e5284789ade976897a4c",
+    "address": "cx7380205103a9076aae26d1c761a8bb6652ecf30f",
+    "nid": "0x2",
+    "priceIds": [
+      "0xe62df6c8b4a85fe1a67db44dc12de5db330f7ac66b72dc658afedf0f4a415b43",
+      "0xff61491a931112ddf1bd8147cd1b641375f79f5825126d665480874634fd0ace",
+      "0x3fa4252848f9f0a1480be62745a4629d9eb1322aebab8a791e344b3b9c1adcf5",
+      "0x93da3352f9f1d105fdfe4971cfa80e9dd777bfc5d0f683ebb6e1294b92137bb7",
+      "0x7a5bc1d2b56ad029048cd63964b3ad2776eadf812edc1a43a31406cb54bff592",
+      "0x23d7315113f5b1d3ba7a83604c44b94d79f4fd69af77f804fc7f920a6dc65744",
+      "0x9ee4e7c60b940440a261eb54b6d8149c23b580ed7da3139f7f08f4ea29dad395",
+      "0x3af6a3098c56f58ff47cc46dee4a5b1910e5c157f7f0b665952445867470d61f"
+    ],
+    "priceChangeThreshold": 0.2,
+    "interval": 100
+
+  }
