@@ -2,6 +2,8 @@
     "pyth_url": "https://hermes.pyth.network",
     "icon_url": "https://lisbon.net.solidwallet.io/api/v3",
     "icon_pk": "",
+    "address": "cx7380205103a9076aae26d1c761a8bb6652ecf30f",
+    "nid": "0x2",
     "priceIds": [
       "0xe62df6c8b4a85fe1a67db44dc12de5db330f7ac66b72dc658afedf0f4a415b43",
       "0xff61491a931112ddf1bd8147cd1b641375f79f5825126d665480874634fd0ace",
@@ -14,7 +16,7 @@
       "0xef0d8b6fda2ceba41da15d4095d1da392a0d2f8ed0c6c7bc0f4cfac8c280b56d",
       "0xb7a8eba68a997cd0210c2e1e4ee811ad2d174b3611c22d9ebf16f4cb7e9ba850"
     ],
-    "threshold": 0.2,
+    "priceChangeThreshold": 0.2,
     "interval": 300
 
   }

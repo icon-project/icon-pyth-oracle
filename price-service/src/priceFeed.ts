@@ -1,5 +1,3 @@
-// dataInterfaces.ts
-
 export interface BinaryData {
     encoding: string;
     data: string[];
