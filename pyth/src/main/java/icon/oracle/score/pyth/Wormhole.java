@@ -27,7 +27,7 @@ public class Wormhole {
 
     public static byte[][] getGuardians() {
         int nrGuardians = guardians.size();
-        byte[][] gs = new byte[20][nrGuardians];
+        byte[][] gs = new byte[nrGuardians][20];
         for (int i = 0; i < nrGuardians; i++) {
             gs[i] = guardians.get(i);
         }
